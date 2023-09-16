@@ -24,7 +24,7 @@
 > 1. #####  tutorialsPoint :
 ##### https://www.tutorialspoint.com/swing/swing_quick_guide.htm
 
-> 1. #####  GeeksofGeeks :
+> 2. #####  GeeksofGeeks :
 ##### https://www.geeksforgeeks.org/java/
 
 
